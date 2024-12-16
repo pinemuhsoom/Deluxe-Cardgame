@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\blackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|solutionrelative:blackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|solutionrelative:Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Card.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|solutionrelative:Card.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Deck.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|solutionrelative:Deck.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Bet.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|solutionrelative:Bet.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\blackjack.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|solutionrelative:blackjack.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\BettingSystem.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50738A7E-943A-433B-B525-898C278D6200}|Deluxe Cardgame.vcxproj|solutionrelative:BettingSystem.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.hpp",
+              "DocumentMoniker": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Player.hpp",
+              "RelativeDocumentMoniker": "Player.hpp",
+              "ToolTip": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Player.hpp",
+              "RelativeToolTip": "Player.hpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T04:02:05.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "blackjack.hpp",
+              "DocumentMoniker": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\blackjack.hpp",
+              "RelativeDocumentMoniker": "blackjack.hpp",
+              "ToolTip": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\blackjack.hpp",
+              "RelativeToolTip": "blackjack.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T04:02:06.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "blackjack.cpp",
+              "DocumentMoniker": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\blackjack.cpp",
+              "RelativeDocumentMoniker": "blackjack.cpp",
+              "ToolTip": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\blackjack.cpp*",
+              "RelativeToolTip": "blackjack.cpp*",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T04:02:06.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BettingSystem.hpp",
+              "DocumentMoniker": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\BettingSystem.hpp",
+              "RelativeDocumentMoniker": "BettingSystem.hpp",
+              "ToolTip": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\BettingSystem.hpp",
+              "RelativeToolTip": "BettingSystem.hpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T04:02:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bet.hpp",
+              "DocumentMoniker": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Bet.hpp",
+              "RelativeDocumentMoniker": "Bet.hpp",
+              "ToolTip": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Bet.hpp",
+              "RelativeToolTip": "Bet.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T04:02:06.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.hpp",
+              "DocumentMoniker": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Card.hpp",
+              "RelativeDocumentMoniker": "Card.hpp",
+              "ToolTip": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Card.hpp",
+              "RelativeToolTip": "Card.hpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T04:02:06.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deck.hpp",
+              "DocumentMoniker": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Deck.hpp",
+              "RelativeDocumentMoniker": "Deck.hpp",
+              "ToolTip": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\Deck.hpp",
+              "RelativeToolTip": "Deck.hpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T04:02:06.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "G:\\\uB0B4 \uB4DC\uB77C\uC774\uBE0C\\C\u002B\u002B\\Deluxe Cardgame\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T04:02:06.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
